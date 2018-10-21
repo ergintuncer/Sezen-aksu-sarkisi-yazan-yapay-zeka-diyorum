@@ -1,0 +1,1 @@
+# Sezen-aksu-ark-s-yazan-yapay-zeka-diyorum
