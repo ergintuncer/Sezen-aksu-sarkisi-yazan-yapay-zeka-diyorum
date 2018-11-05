@@ -21,3 +21,4 @@ Video to text
 …
 LSTM ve RNN hakkında biraz bilgimiz olduğuna göre artık projemize başlayabiliriz.
 
+[Devamı için tıklayın](https://medium.com/@tuncerergin/sezen-aksu-sarkisi-yazan-yapay-zeka-diyorum-cd327001b7c4)
