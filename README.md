@@ -1,4 +1,4 @@
-
+![Sezen Aksu](https://github.com/ergintuncer/Sezen-aksu-sarkisi-yazan-yapay-zeka-diyorum/blob/master/Sezen%20Aksu%20vs%20Yapay%20Zeka%20v2.jpg)
 # Sezen Aksu Şarkısı Yazan Yapay Zeka Diyorum
 Birkaç gün önce, LSTM RNN’yi (Long Short Term Memory Recurrent Neural Networks) öğrenmeye karar verdim, hali hazırda Andrew NG tarafından verilen kursu aldığım için teorik olarak bilgim bulunmaktaydı fakat kodlama konusunda eksiklerim olduğunun ve bunu bir proje yaparak öğrenmenin iyi bir fikir olacağını düşündüm.
 
